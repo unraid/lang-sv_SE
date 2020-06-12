@@ -3,7 +3,7 @@
 Active tunnels=
 Activity=
 ago=
-Airflow=
+Airflow=Luftflöde
 All Apps=
 All VMs=
 Battery charge=
