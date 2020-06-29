@@ -85,6 +85,7 @@ Post the ENTIRE contents of this message in the Community Applications Support T
 Unknown error happened Please post a screenshot in the support thread of the Statistics screen=
 Something really wrong happened Reloading the Apps tab will probably fix the problem=
 This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=
+You have been logged out=
 
 ; CA Sections Keep the length reasonable
 MENU=
@@ -192,7 +193,7 @@ Utilities=
 Private Apps=
 Uncategorized=
 
-; Categories displayed within a popup or on the card
+; Categories displayed within a popup or on the card.  Where an entry exists after the "=" it is not translated, but rather how it should look
 GameServers=
 HomeAutomation=
 MediaApp=
@@ -318,6 +319,7 @@ Remove Language Pack=
 Update Language Pack=
 Installed Version=
 A note about translations=
+Click here to view the language changelog=
 
 ; Help Text
 This chooses how to sort the results=
