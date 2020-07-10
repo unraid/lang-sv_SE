@@ -33,6 +33,7 @@ Default Value=Standardvärde
 Device=Enhet
 Display=
 DNS=
+Docker Containers=
 Docker Hub URL=
 Docker Service failed to start=Dockertjänsten kunde inte starta
 Donation Link=Donationslänk
