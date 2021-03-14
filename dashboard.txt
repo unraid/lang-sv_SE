@@ -101,3 +101,6 @@ User count %s with %s unprotected=User count: %s with %s unprotected
 utilization warning=
 View Running Processes=Visa aktiva processer
 Virtual Machines=Virtuella Maskiner
+
+; New entries - 2021-03-14
+Temp=

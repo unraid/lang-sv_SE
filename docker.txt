@@ -128,3 +128,8 @@ Was this container created using this plugin=Skapades den här containern av det
 Web=
 WebUI=
 Writable=Skrivbar
+
+; New entries - 2021-03-14
+Drivers=
+Reset sorting=
+Start Container After Install=
