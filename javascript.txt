@@ -55,3 +55,10 @@ Unmounting disks=Avmonterar diskar
 Autostart disabled=Autostart inaktiverad
 Missing encryption key=Saknar krypteringsnyckel
 Opening encrypted volumes=Öppnar krypterade volymer
+
+; New entries (5) - 2021-05-08
+Container Path=
+Container Port=
+Container Variable=
+Container Label=
+Container Device=
