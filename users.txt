@@ -17,3 +17,13 @@ Use a password up to 128 characters=Använd ett lösenord upp till 128 tecken
 Use only lowercase letters, digits, underscores and dashes=Använd bara gemener, siffror, understreck och bindestreck
 User %s has been deleted=Användare %s har tagits bort
 User name=Användarnamn
+
+; New entries (8) - 2021-05-31
+Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
+Invalid Key=
+Management Access=
+No users are defined=
+Save=
+Shares Access=
+SSH authorized keys=
+Syntax of the key is incorrect=
