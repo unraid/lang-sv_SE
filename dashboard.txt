@@ -1,5 +1,4 @@
 %s used of %s %s %%=%s använt av %s (%s %%)
----=
 Active tunnels=Aktiva tunnlar
 Activity=Aktivitet
 ago=sedan
@@ -26,7 +25,6 @@ FAN=
 Finding %s error=Hittar: **%s** fel
 Finding %s errors=Hittar: **%s** fel
 General info=Generell info
-Go to cache settings=Gå till cacheinställningar
 Go to CPU pinning settings=
 Go to disk settings=Gå till diskinställningar
 Go to Docker settings=Gå till Docker-inställningar
