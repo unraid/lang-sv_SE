@@ -1,4 +1,9 @@
+%s ago=
 %s used of %s %s %%=%s använt av %s (%s %%)
+10 s=
+30 s=
+1 m=
+2 m=
 Active tunnels=Aktiva tunnlar
 Activity=Aktivitet
 ago=sedan
@@ -7,6 +12,7 @@ All Apps=Alla Appar
 All VMs=Alla VMer
 Battery charge=Batteriladdning
 BIOS dated=BIOS daterat
+Click to toggle CPU chart=
 Click to toggle details=
 Completed=Färdigställd
 Counters info=Räknarinfo
@@ -53,6 +59,7 @@ Last check incomplete on %s=Senaste kontroll slutfördes inte den **%s**
 Last checked on %s=Last checked on **%s**
 Maximum size=Maximal storlek
 Mode of operation=
+Network traffic=
 Next check scheduled on %s=Nästa schemalagda kontroll den **%s**
 No docker containers defined=Inga dockercontainrar definierade
 No running docker containers=Inga aktiva dockercontainrar
@@ -61,6 +68,7 @@ No shares present=
 No virtual machines defined=Inga virtuella maskiner definierade
 Nominal power=
 not received=inte mottagen
+Only PNG images are allowed=Only PNG images are allowed!
 Outbound=Utgående
 Overall Load=Total last
 Parity disk not present=Paritetsdisk saknas
@@ -75,16 +83,19 @@ Received packets=Mottagna paket
 Runtime left=Körtid kvar
 Scheduled parity check is disabled=Schemalagd paritetskontroll är inaktiverad
 Select Case Model=Välj chassimodell
+Select time frame=
 Share count %s with %s cache only and %s encrypted=Share count: %s with %s cache only and %s encrypted
 Show details=Visa detaljer
 Show Information=Visa information
 Shutdown the system=Stäng av systemet
 SMART error=SMART-fel
+SMART health-check failed=
 SMART=
 sn=s/n
 Start the array=Starta arrayet
 Started only=Endast startade
 Stop the array=Stoppa arrayet
+Temp=
 This will put the system to sleep=Det här kommer försätta systemet i viloläge
 This will reboot the system=Det här kommer starta om systemet
 This will shutdown the system=Det här kommmer stänga av systemet
@@ -100,21 +111,4 @@ utilization warning=
 View Running Processes=Visa aktiva processer
 Virtual Machines=Virtuella Maskiner
 
-; New entries (3) - 2021-05-08
-%s ago=
-Only PNG images are allowed=Only PNG images are allowed!
-Temp=
-
-; New entries (1) - 2021-05-15
-SMART health-check failed=
-
-; New entries (2) - 2021-05-20
-Click to toggle CPU chart=
-Network traffic=
-
-; New entries (5) - 2021-05-31
-10 s=
-30 s=
-1 m=
-2 m=
-Select time frame=
+; Note: November 14, 2021 - 24 missing translations

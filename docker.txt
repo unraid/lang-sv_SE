@@ -2,6 +2,7 @@ Access Mode=
 Add another Path, Port, Variable, Label or Device=Läg till en annan Sökväg, Port, Variabel, Etikett eller Enhet
 Add Configuration=Lägg till konfiguration
 Add=Lägg till
+Additional Requirements=
 Always=Alltid
 App to Host=
 Application=Applikation
@@ -26,9 +27,10 @@ Container Path=Container-sökväg
 Container Port=Container-port
 Container Size=Container-storlek
 Container=
-CPU Memory load=
+CPU Memory load=CPU & Memory load
 CPU Pinning=
 Created=Skapad
+Crypto Currency=
 Default Value=Standardvärde
 Device=Enhet
 Display=
@@ -37,6 +39,7 @@ Docker Containers=
 Docker Hub URL=
 Docker Service failed to start=Dockertjänsten kunde inte starta
 Downloaders=Nedladdare
+Drivers=
 Edit Configuration=Redigera konfiguration
 Exited=
 Extra Parameters=Extra parametrar
@@ -64,6 +67,7 @@ Missing parameters=
 Music=Musik
 Network Type=Nätverkstyp
 No Docker containers installed=Inga dockercontainrar installerade
+None Listed=
 of=av
 orphan image=
 Other=
@@ -79,6 +83,7 @@ Productivity=Produktivitet
 Project Page=Projektsida
 Proxy=
 Pulling image=
+Read Me First=
 Read Only - Shared=Läsbehörighet - Delad
 Read Only - Slave=Läsbehörighet - Slav
 Read Only=Läsbehörighet
@@ -91,6 +96,7 @@ Removing container=Tar bort container
 Removing orphan image=
 Repository=
 Required=
+Reset sorting=
 Resume All=Återuppta alla
 Save=Spara
 Select a template=
@@ -111,6 +117,7 @@ Template=
 The command failed=Kommandot misslyckades
 The command finished successfully=Kommandot kördes framgångsrikt
 TOTAL DATA PULLED=
+Total size=
 Unknown action=
 Update All=Uppdatera alla
 update ready=uppdatering redo
@@ -125,17 +132,4 @@ Web=
 WebUI=
 Writable=Skrivbar
 
-; New entries (4) - 2021-05-08
-Drivers=
-Reset sorting=
-Total size=
-
-; New entries (1) - 2021-06-12
-Crypto Currency=
-
-; New entries (2) - 2021-09-18
-Additional Requirements=
-None Listed=
-
-; New entries (1) - 2021-11-07
-Read Me First=
+; Note: November 14, 2021 - 59 missing translations
