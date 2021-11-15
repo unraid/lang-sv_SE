@@ -9,6 +9,7 @@ day=dag
 days=dagar
 disk image and definition=diskavbildning och definition
 Disks=Diskar
+Donate=
 Done=Klar
 Edit=Redigera
 Execution error=Exekveringsfel
@@ -64,4 +65,4 @@ Container Variable=
 Container Label=
 Container Device=
 
-; Note: November 14, 2021 - 6 missing translations
+; Note: November 15, 2021 - 7 missing translations
