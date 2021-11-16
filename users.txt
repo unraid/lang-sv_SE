@@ -26,4 +26,4 @@ Use only lowercase letters, digits, underscores and dashes=Använd bara gemener,
 User %s has been deleted=Användare %s har tagits bort
 User name=Användarnamn
 
-; Note: November 15, 2021 - 7 missing translations
+; Note: November 16, 2021 - 7 missing translations
