@@ -137,4 +137,4 @@ Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, nyare Linux distributioner
 XML View=XML Vy
 
-; Note: November 16, 2021 - 41 missing translations
+; Note: November 18, 2021 - 41 missing translations

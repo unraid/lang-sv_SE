@@ -132,4 +132,4 @@ Web=
 WebUI=
 Writable=Skrivbar
 
-; Note: November 16, 2021 - 58 missing translations
+; Note: November 18, 2021 - 58 missing translations
