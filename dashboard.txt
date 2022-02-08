@@ -111,4 +111,4 @@ utilization warning=
 View Running Processes=Visa aktiva processer
 Virtual Machines=Virtuella Maskiner
 
-; Note: November 18, 2021 - 24 missing translations
+; Note: February 8, 2022 - 24 missing translations
