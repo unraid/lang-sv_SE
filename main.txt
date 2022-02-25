@@ -67,6 +67,7 @@ Device is part of a pool=Enhet är del av en pool
 Device locked unknown error=Enhet låst, okänt fel
 Device locked wrong encryption key=Enhet låst: fel krypteringsnyckel
 Device to be encrypted=Enhet att kryptera
+Disable Spin down delay to run a SMART extended self-test=Disable **Spin down delay** to run a SMART extended self-test
 Disk in parity slot is not biggest=
 Disk Log Information=
 Disk-Clear in progress=
@@ -346,4 +347,4 @@ System in sleep mode=
 This will put the system in sleep mode=
 wiki entry=
 
-; Note: February 21, 2022 - 197 missing translations
+; Note: February 25, 2022 - 198 missing translations
