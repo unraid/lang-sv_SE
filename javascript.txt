@@ -52,9 +52,14 @@ Array Clearing=
 Array Starting=Array startar
 Array Stopping=Array stoppas
 Mounting disks=Monterar diskar
+Retry unmounting user shares=Retry unmounting user share(s)
 Spinning up all drives=Spinner upp alla diskar
+Stale configuration=
 Starting services=Startar tjänster
 Stopping services=Stoppar tjänster
+Starting Recycle Bin=
+Stopping Recycle Bin=
+Sync filesystems=
 Unmounting disks=Avmonterar diskar
 Autostart disabled=Autostart inaktiverad
 Missing encryption key=Saknar krypteringsnyckel
@@ -67,4 +72,4 @@ Container Variable=
 Container Label=
 Container Device=
 
-; Note: May 29, 2022 - 9 missing translations
+; Note: June 6, 2022 - 14 missing translations
