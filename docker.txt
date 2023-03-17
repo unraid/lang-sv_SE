@@ -7,8 +7,8 @@ Always=Alltid
 App to Host=
 Application=Applikation
 apply update=
-Array must be Started to view Docker containers=Array must be **Started** to view Docker containers
 Are you sure=Är du säker
+Array must be Started to view Docker containers=Array must be **Started** to view Docker containers
 Autostart=
 Back=
 Backup=
@@ -59,6 +59,7 @@ Icon URL=Ikon-URL
 Image ID=Bild-ID
 Key=Nyckel
 Label=Etikett
+Lock sortable items=
 Management=
 MediaApp=
 MediaServer=
@@ -119,6 +120,7 @@ The command finished successfully=Kommandot kördes framgångsrikt
 TOTAL DATA PULLED=
 Total size=
 Unknown action=
+Unlock sortable items=
 Update All=Uppdatera alla
 update ready=uppdatering redo
 Value=Värde
@@ -132,4 +134,4 @@ Web=
 WebUI=
 Writable=Skrivbar
 
-; Note: June 6, 2022 - 58 missing translations
+; Note: March 17, 2023 - 60 missing translations
