@@ -35,8 +35,9 @@ STALE=
 Support Thread=
 Uninstall=
 Update All Plugins=
+Update Incompatible=
 Update Plugin=
 Upgrade=
 View Release Notes=
 
-; Note: March 17, 2023 - 39 missing translations
+; Note: April 11, 2023 - 40 missing translations
