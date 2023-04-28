@@ -1,7 +1,7 @@
+Notice %s - Version update %s=Notice [%s] - Version update %s
+
+; Note: April 28, 2023 - 4 missing translations
 A new version of %s is available=
 Docker=
 Language=
-Notice %s - Version update %s=Notice [%s] - Version update %s
 Plugin=
-
-; Note: June 6, 2022 - 4 missing translations

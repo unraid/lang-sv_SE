@@ -1,4 +1,6 @@
 %s An update is available=%s: An update is available.
+
+; Note: April 28, 2023 - 40 missing translations
 Alert Message=
 anonymous=
 Author=
@@ -39,5 +41,3 @@ Update Incompatible=
 Update Plugin=
 Upgrade=
 View Release Notes=
-
-; Note: April 11, 2023 - 40 missing translations

@@ -9,7 +9,6 @@ day=dag
 days=dagar
 disk image and definition=diskavbildning och definition
 Disks=Diskar
-Donate=
 Done=Klar
 Edit=Redigera
 Execution error=Exekveringsfel
@@ -25,7 +24,6 @@ Ok=Okej
 Pause=Paus
 Proceed=Fortsätt
 Project Page=Projektsida
-Read Me First=
 Remove container=Ta bort container
 Remove definition=Ta bort definition
 Remove image=Ta bort image
@@ -47,29 +45,31 @@ Yes, update it=Ja, uppdatera den!
 Yes=Ja
 
 ; footer messages
-Array Copying=
-Array Clearing=
 Array Starting=Array startar
 Array Stopping=Array stoppas
 Mounting disks=Monterar diskar
 Retry unmounting user shares=Retry unmounting user share(s)
 Spinning up all drives=Spinner upp alla diskar
-Stale configuration=
 Starting services=Startar tjänster
 Stopping services=Stoppar tjänster
-Starting Recycle Bin=
-Stopping Recycle Bin=
-Sync filesystems=
 Unmounting disks=Avmonterar diskar
 Autostart disabled=Autostart inaktiverad
 Missing encryption key=Saknar krypteringsnyckel
 Opening encrypted volumes=Öppnar krypterade volymer
 
 ; docker variables
+
+; Note: April 28, 2023 - 13 missing translations
+Donate=
+Read Me First=
+Array Copying=
+Array Clearing=
+Stale configuration=
+Starting Recycle Bin=
+Stopping Recycle Bin=
+Sync filesystems=
 Container Path=
 Container Port=
 Container Variable=
 Container Label=
 Container Device=
-
-; Note: June 11, 2022 - 13 missing translations
