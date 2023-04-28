@@ -1,6 +1,7 @@
-%s An update is available=%s: An update is available.
 
-; Note: April 28, 2023 - 40 missing translations
+
+; Note: April 29, 2023 - 41 missing translations
+%s An update is available=%s: An update is available.
 Alert Message=
 anonymous=
 Author=

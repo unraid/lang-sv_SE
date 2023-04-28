@@ -1,6 +1,5 @@
 Add User=Lägg till användare
 Add=Lägg till
-Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
 Click to select PNG file=Tryck för att välja PNG-fil
 Custom image=Egen bild
 Description=Beskrivning
@@ -19,7 +18,8 @@ Use only lowercase letters, digits, underscores and dashes=Använd bara gemener,
 User %s has been deleted=Användare %s har tagits bort
 User name=Användarnamn
 
-; Note: April 28, 2023 - 7 missing translations
+; Note: April 29, 2023 - 8 missing translations
+Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
 Invalid Key=
 Management Access=
 No users are defined=

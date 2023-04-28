@@ -4,7 +4,6 @@ Add=Lägg till
 Always=Alltid
 Application=Applikation
 Are you sure=Är du säker
-Array must be Started to view Docker containers=Array must be **Started** to view Docker containers
 Books=Böcker
 By=Av
 Categories=Kategorier
@@ -16,7 +15,6 @@ Container ID=Container-ID
 Container Path=Container-sökväg
 Container Port=Container-port
 Container Size=Container-storlek
-CPU Memory load=CPU & Memory load
 Created=Skapad
 Default Value=Standardvärde
 Device=Enhet
@@ -74,11 +72,12 @@ Volume Mappings=Volymmappningar
 Was this container created using this plugin=Skapades den här containern av det här pluginet
 Writable=Skrivbar
 
-; Note: April 28, 2023 - 60 missing translations
+; Note: April 29, 2023 - 62 missing translations
 Access Mode=
 Additional Requirements=
 App to Host=
 apply update=
+Array must be Started to view Docker containers=Array must be **Started** to view Docker containers
 Autostart=
 Back=
 Backup=
@@ -86,6 +85,7 @@ Beta=
 Cloud=
 Console shell command=
 Container=
+CPU Memory load=CPU & Memory load
 CPU Pinning=
 Crypto Currency=
 Display=
