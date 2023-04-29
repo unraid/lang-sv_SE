@@ -1,26 +1,3 @@
-Days_array=Sunday:Sunday Monday:Monday Tuesday:Tuesday Wednesday:Wednesday Thursday:Thursday Friday:Friday Saturday:Saturday Sun:Sun Mon:Mon Tue:Tue Wed:Wed Thu:Thu Fri:Fri Sat:Sat
-Formatting devices=Formatting device(s)
-MBR unaligned=MBR: unaligned
-Months_array=January:January February:February March:March April:April May:May June:June July:July August:August September:September October:October November:November December:December Jan:Jan Feb:Feb Mar:Mar Apr:Apr May:May Jun:Jun Jul:Jul Aug:Aug Sep:Sep Oct:Oct Nov:Nov Dec:Dec
-NA=N/A
-Numbers_array=thirty:thirty twenty-nine:twenty-nine twenty-eight:twenty-eight twenty-seven:twenty-seven twenty-six:twenty-six twenty-five:twenty-five twenty-four:twenty-four twenty-three:twenty-three twenty-two:twenty-two twenty-one:twenty-one twenty:twenty nineteen:nineteen eighteen:eighteen seventeen:seventeen sixteen:sixteen fifteen:fifteen fourteen:fourteen thirteen:thirteen twelve:twelve eleven:eleven ten:ten nine:nine eight:eight seven:seven six:six five:five four:four three:three two:two one:one zero:zero
-prefix_IEC=Ki Mi Gi Ti Pi Ei Zi Yi
-prefix_SI=K M G T P E Z Y
-ReadWrite=Read/Write
-sn=s/n
-Yes hidden=Yes (hidden)
-
-; Dynamix.system.button plugin
-
-; Dynamix File Manager - 2023-04-11
-
-; UNRAID.NET / My Servers / Unraid Connect
-Didnt get code=Didn't get code?
-Oh no Are you pirating Unraid OS<br>Are you ready to buy a real license=Oh no! Are you pirating Unraid OS?<br>Are you ready to buy a real license?
-Registration keyGUID mismatch=Registration key / GUID mismatch
-Sign In Up=Sign In / Up
-
-; Note: April 29, 2023 - 899 missing translations
 %s day ago=
 %s days ago=
 %s hour ago=
@@ -106,6 +83,7 @@ Create Unraidnet Account=Create Unraid.net Account
 Dashboard=
 Data-Rebuild=
 day=
+Days_array=Sunday:Sunday Monday:Monday Tuesday:Tuesday Wednesday:Wednesday Thursday:Thursday Friday:Friday Saturday:Saturday Sun:Sun Mon:Mon Tue:Tue Wed:Wed Thu:Thu Fri:Fri Sat:Sat
 days=
 Default=
 default=
@@ -163,6 +141,7 @@ FOLDER=
 folder=
 Force lower=
 Format=
+Formatting devices=Formatting device(s)
 Forum=
 GB=
 Go to Registration page=
@@ -214,16 +193,19 @@ Maximum file upload size is 512K=
 MB=
 MBR 1MiB-aligned=MBR: 1MiB-aligned
 MBR 4KiB-aligned=MBR: 4KiB-aligned
+MBR unaligned=MBR: unaligned
 Memory=
 min=
 minute=
 minutes=
 Model=
+Months_array=January:January February:February March:March April:April May:May June:June July:July August:August September:September October:October November:November December:December Jan:Jan Feb:Feb Mar:Mar Apr:Apr May:May Jun:Jun Jul:Jul Aug:Aug Sep:Sep Oct:Oct Nov:Nov Dec:Dec
 month=
 months=
 More=
 Motherboard=
 Move=
+NA=N/A
 Name=
 Network=
 Never=
@@ -251,6 +233,7 @@ not connected=
 Not encrypted=
 not encrypted=
 NOTE=
+Numbers_array=thirty:thirty twenty-nine:twenty-nine twenty-eight:twenty-eight twenty-seven:twenty-seven twenty-six:twenty-six twenty-five:twenty-five twenty-four:twenty-four twenty-three:twenty-three twenty-two:twenty-two twenty-one:twenty-one twenty:twenty nineteen:nineteen eighteen:eighteen seventeen:seventeen sixteen:sixteen fifteen:fifteen fourteen:fourteen thirteen:thirteen twelve:twelve eleven:eleven ten:ten nine:nine eight:eight seven:seven six:six five:five four:four three:three two:two one:one zero:zero
 object=
 objects=
 Off=
@@ -292,6 +275,8 @@ Please try again later=
 Please wait=
 Plugins=
 Plus=
+prefix_IEC=Ki Mi Gi Ti Pi Ei Zi Yi
+prefix_SI=K M G T P E Z Y
 Press ANY KEY to close this window=
 Private=
 Pro=
@@ -307,6 +292,7 @@ Read=
 Read-Check=
 Read-only=
 Reads=
+ReadWrite=Read/Write
 Reboot Now=
 Reboot=
 Refresh=
@@ -346,6 +332,7 @@ Sign In before your Unraidnet SSL certificate expires=Sign In before your Unraid
 Size=
 SMB Security Settings=
 SMB=
+sn=s/n
 Sorry, an error occurred=
 Sorry, this feature is not supported by MSIEEdge=Sorry, this feature is not supported by MSIE/Edge
 Standby=
@@ -437,6 +424,7 @@ wrong=
 xfs=
 year=
 years=
+Yes hidden=Yes (hidden)
 Yes Time Machine=Yes (Time Machine)
 Yes, I want to do this=
 Yes=
@@ -463,6 +451,8 @@ The command finished successfully=
 TOTAL DATA PULLED=
 Was this container created using this plugin=
 Please use a high quality name brand device at least 1GB in size min 4GB recommended=Please use a high quality name brand device at least 1GB in size (min 4GB recommended)
+
+; Dynamix.system.button plugin
 Array busy=
 Buttons=
 Parity operation or mover is running=
@@ -479,6 +469,8 @@ This will reboot the system=
 This will shutdown the system=
 This will start the array=
 This will stop the array=
+
+; Dynamix File Manager - 2023-04-11
 %s year ago=
 %s years ago=
 Action=
@@ -604,6 +596,8 @@ Upload Error=
 Use sparse option=
 year=
 years=
+
+; UNRAID.NET / My Servers / Unraid Connect
 %s is signed in to your Unraidnet account=%s is signed in to your Unraid.net account
 %s Key Created=
 %s Key Extended=
@@ -674,6 +668,7 @@ Create My Account=
 Current server=
 Customizable Dashboard Tiles=
 Deep Linking=
+Didnt get code=Didn't get code?
 Disconnected=
 Display Name or Email Address=
 Display Name=
@@ -762,6 +757,7 @@ No USB flash configuration data=
 Not Connected to Mothership=
 Not ready to purchase=Not ready to purchase?
 Note USB memory card readers are generally not supported because most do not present unique serial numbers=Note: USB memory card readers are generally not supported because most do not present unique serial numbers
+Oh no Are you pirating Unraid OS<br>Are you ready to buy a real license=Oh no! Are you pirating Unraid OS?<br>Are you ready to buy a real license?
 Online Flash Backup=
 Open dropdown=
 Open Dropdown=
@@ -798,6 +794,7 @@ Recover Key=
 Redeem Activation Code=
 Register for Connect by signing in to Unraid.net=
 Registration key management=
+Registration keyGUID mismatch=Registration key / GUID mismatch
 Registration keys are bound to your USB Flash boot device serial number GUID=Registration keys are bound to your USB Flash boot device serial number (GUID)
 Registration Wizard=
 remaining=
@@ -825,6 +822,7 @@ Shut Down=
 Sign in or sign up to get started=
 Sign In to Purchase Key=
 Sign In to resolve=
+Sign In Up=Sign In / Up
 Sign In with Unraidnet Account=Sign In with Unraid.net Account
 Sign In=
 Sign me up for the monthly Unraid newsletter=
@@ -920,3 +918,5 @@ Your trial will expire in 30 days=
 Your Unraid registration key is ineligible for replacement as it has been replaced within the last 12 months=
 Your Unraid registration key is ineligible for replacement as it is blacklisted=
 Your USB Flash GUID and other relevant server data will also be sent=
+
+; Note: April 29, 2023 - 899 missing translations
