@@ -1,6 +1,6 @@
 
 
-; Note: April 29, 2023 - 41 missing translations
+; Note: July 9, 2023 - 42 missing translations
 %s An update is available=%s: An update is available.
 Alert Message=
 anonymous=
@@ -13,6 +13,7 @@ Delete Plugin=
 DOWNGRADE TO VERSION=
 Enter URL of remote plugin file or local plugin file=
 ERROR=
+I have read the release notes=
 Install Plugin=
 Install=
 install=

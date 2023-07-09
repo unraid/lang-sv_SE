@@ -110,6 +110,8 @@ Share count %s with %s cache only and %s encrypted=Share count: %s with %s cache
 Shares Information=
 Show details=Visa detaljer
 Show Information=Visa information
+ShowHide All Content=Show/Hide All Content
+ShowHide Content=Show/Hide Content
 Shutdown the system=Stäng av systemet
 SMART error=SMART-fel
 SMART health-check failed=
@@ -125,6 +127,7 @@ This will reboot the system=Det här kommer starta om systemet
 This will shutdown the system=Det här kommmer stänga av systemet
 This will start the array=Det här kommer starta arrayet
 This will stop the array=Det här kommer stoppa arrayet
+Tile Management=
 Transmit counters=Sändningsräknare
 Transmitted packets=Skickade paket
 Unassigned Devices=
@@ -142,4 +145,4 @@ VPN Connections=
 Warnings=
 ZFS=
 
-; Note: April 29, 2023 - 60 missing translations
+; Note: July 9, 2023 - 63 missing translations
