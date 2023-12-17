@@ -227,4 +227,4 @@ Windows 82012, newer Linux distros=Windows 8/2012, nyare Linux distributioner
 wsport for virtual console=
 XML View=XML Vy
 
-; Note: December 17, 2023 - 133 missing translations
+; Note: December 17, 2023 - 131 missing translations
