@@ -68,12 +68,12 @@ Date=Datum
 dedup - Deduplication Tables=
 Delete Pool=Ta bort pool
 detected=
-Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
+Device contents invalid, in standby mode spun-down=Device contents invalid, in standby mode (spun-down)
 Device contents invalid=
 Device encrypted and unlocked=Enhet krypterad och upplåst
 Device encrypted=Enhet krypterad
 Device is disabled=
-Device is missing disabled=Device is missing disabled=Device is missing disabled=Device is missing (disabled)
+Device is missing disabled=Device is missing (disabled)
 Device is part of a pool=Enhet är del av en pool
 Device locked unknown error=Enhet låst, okänt fel
 Device locked wrong encryption key=Enhet låst: fel krypteringsnyckel
