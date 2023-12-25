@@ -22,9 +22,6 @@ BIOS dated=BIOS daterat
 Check free space=
 Click to toggle CPU chart=
 Click to toggle details=
-Clock is unsynchronized with no NTP servers=
-Clock synchronized with %s NTP server=
-Clock synchronized with %s NTP servers=
 Clone=
 Close Tile=
 Completed=Färdigställd
@@ -175,4 +172,4 @@ W=
 Warnings=
 ZFS=
 
-; Note: December 25, 2023 - 93 missing translations
+; Note: December 25, 2023 - 90 missing translations
