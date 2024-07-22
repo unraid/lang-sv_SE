@@ -19,11 +19,11 @@ User %s has been deleted=Användare %s har tagits bort
 User name=Användarnamn
 
 ; Note: April 29, 2023 - 8 missing translations
-Click Add User to create a user for remote shares access=Click **Add User** to create a user for remote shares access
-Invalid Key=
-Management Access=
-No users are defined=
-Save=
-Shares Access=
-SSH authorized keys=
-Syntax of the key is incorrect=
+Click Add User to create a user for remote shares access=Klicka på **Lägg till användare** för att skapa en användare för åtkomst till fjärrdelningar
+Invalid Key=Ogiltig nyckel
+Management Access=Hantera åtkomst
+No users are defined=Inga användare är definierade
+Save=Spara
+Shares Access=Åtkomst till delningar
+SSH authorized keys=SSH auktoriserade nycklar
+Syntax of the key is incorrect=Nyckelns syntax är felaktig
