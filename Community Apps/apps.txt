@@ -1,460 +1,461 @@
-Cancel=
+Cancel=avbrit
 
 ; My PSAs / banners
-Happy New Year=
-Happy Holidays from Andrew, Tracey, and family=
-Please Enjoy Responsibly=
-Popup Blocked CA requires popups to be enabled under certain circumstances You must white list your server within your browser to allow popups=
-Docker Service Not Enabled - Only Plugins Available To Be Installed Or Managed=
-Docker system failed to start - Only Plugins Available To Be Installed Or Managed=
-Array not started - Only Plugins Available To Be Installed Or Managed=
-Community Applications works best when cookies are enabled in your browser Certain features may not be available=
-Backup Server Active Some icons may not appear, and plugin installations may be affected=
-Debugging enabled This significantly increases the memory used by your browser=
-Browser translation detected Display issues may result=
-Action Centre Enabled=
-Deprecated OS version No further updates to Community Applications will be issued for this OS version=
+Happy New Year=Gott Nytt År
+Happy Holidays from Andrew, Tracey, and family=God Jul och Gott Nytt År från Andrew, Tracey och familj
+Please Enjoy Responsibly=Var vänlig och njut ansvarsfullt
+Popup Blocked CA requires popups to be enabled under certain circumstances You must white list your server within your browser to allow popups=Popup blocker blockerat. CA kräver att popup-fönster är aktiverade under vissa omständigheter. Du måste lägga till din server på vitlistan i din webbläsare för att tillåta popup-fönster.
+Docker Service Not Enabled - Only Plugins Available To Be Installed Or Managed=Docker-tjänst inte aktiverad - Endast plugins kan installeras eller hanteras
+Docker system failed to start - Only Plugins Available To Be Installed Or Managed=Docker-systemet kunde inte starta - Endast plugins kan installeras eller hanteras
+Array not started - Only Plugins Available To Be Installed Or Managed=Array inte startad - Endast plugins kan installeras eller hanteras
+Community Applications works best when cookies are enabled in your browser Certain features may not be available=Community Applications fungerar bäst när cookies är aktiverade i din webbläsare. Vissa funktioner kanske inte är tillgängliga.
+Backup Server Active Some icons may not appear, and plugin installations may be affected=Säkerhetskopieringsserver aktiv. Vissa ikoner kanske inte visas, och plugin-installationer kan påverkas.
+Debugging enabled This significantly increases the memory used by your browser=Debugging aktiverad. Detta ökar avsevärt minnesanvändningen i din webbläsare.
+Browser translation detected Display issues may result=Webbläsaröversättning upptäckt. Visningsproblem kan uppstå.
+Action Centre Enabled=Åtgärdscenter aktiverat
+Deprecated OS version No further updates to Community Applications will be issued for this OS version=Föråldrad OS-version. Inga fler uppdateringar till Community Applications kommer att utfärdas för denna OS-version.
 
 ; Sorting Options
-Sort By=
-Name Ascending=
-Name Descending=
-Downloads=
-Date Added=
-Number Of Apps=
+Sort By=Sortera efter
+Name Ascending=Namnet stigande
+Name Descending=Namnet fallande
+Downloads=Nedladdningar
+Date Added=Datum tillagt
+Number Of Apps=Antal appar
+
 ; Initial disclaimer translations
-Disclaimer=
-All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=
-Every attempt is made to ensure that only safe and compatible applications are present=
-Application Policy=
-I Understand=
-Installations of apps disabled You must accept the warning to be able to install applications=
-Click here=
-%s Results Per Page=
-Results Per Page: %s=
+Disclaimer=Ansvarsfriskrivning
+All applications listed here are 3rd party additions to Unraid Neither the authors of Community Applications nor Limetech make any warranty as to the suitability of any application listed here=Alla appar som listas här är tredjeparts-tillägg till Unraid. Varken författarna till Community Applications eller Limetech ger någon garanti för lämpligheten av någon app som listas här.
+Every attempt is made to ensure that only safe and compatible applications are present=Varje försök görs för att säkerställa att endast säkra och kompatibla appar är närvarande.
+Application Policy=App-policy
+I Understand=Jag förstår
+Installations of apps disabled You must accept the warning to be able to install applications=Installation av appar är inaktiverad. Du måste acceptera varningen för att kunna installera appar.
+Click here=Klicka här
+%s Results Per Page=%s resultat per sida
+Results Per Page: %s=Resultat per sida: %s
 
 ; Plugin Disclaimer
-Community Applications contains both docker containers and plugin applications Plugins are designed for OS enhancements, and run with full privileges on your system and are clearly identified within CA=
-Plugin Note=
+Community Applications contains both docker containers and plugin applications Plugins are designed for OS enhancements, and run with full privileges on your system and are clearly identified within CA=Community Applications innehåller både Docker-containrar och plugin-appar. Plugins är avsedda för OS-förbättringar och körs med fullständiga behörigheter på ditt system och är tydligt identifierade inom CA.
+Plugin Note=Plugin-notering
 
 ; Multi Install
-Install Plugin Applications=
-Select all on page=
-Install Application=
-Install Applications=
-Update Application=
-Update Applications=
-Are you sure you want to update %s applications=
-Are you sure you want to install %s docker and %s plugin applications=Are you sure you want to install %1$s docker and %2$s plugin application(s)
+Install Plugin Applications=Installera plugin-appar
+Select all on page=Välj alla på sidan
+Install Application=Installera app
+Install Applications=Installera appar
+Update Application=Uppdatera app
+Update Applications=Uppdatera appar
+Are you sure you want to update %s applications=Är du säker på att du vill uppdatera %s appar
+Are you sure you want to install %s docker and %s plugin applications=Är du säker på att du vill installera %1$s Docker och %2$s plugin-appar
 
 ; Searches
-Search=
-Click Here To Get More Results From DockerHub=
-No Matching Applications Found=
+Search=Sök
+Click Here To Get More Results From DockerHub=Klicka här för att få fler resultat från DockerHub
+No Matching Applications Found=Inga matchande appar hittades
 
 ; Repository Related
-%s removed as favourite repository=
-%s set as favourite repository=
-Click to remove favourite repository=
-Click to set %s as favourite repository=
-Search for apps in repository=
-No description present=
-Go to the forum page=
-Go to the webpage=
-Go to reddit=
-Go to facebook=
-Go to discord=
-Go to forum profile=
-Show Profile=
-SHOW MORE=
-SHOW LESS=
-Read more=
-Total Applications=
-Total Known Downloads=
-Total Docker Applications=
-Total Plugin Applications=
-Total Languages=
-Average Downloads Per App=
-Web Page=
-Forum=
-Forum Profile=
-Profile=
-Facebook=
-Reddit=
-Twitter=
-Discord=
-Search Apps=
-Registry=
-Details=
-Added=
+%s removed as favourite repository=%s borttagen som favoritarkiv
+%s set as favourite repository=%s inställd som favoritarkiv
+Click to remove favourite repository=Klicka för att ta bort favoritarkiv
+Click to set %s as favourite repository=Klicka för att ställa in %s som favoritarkiv
+Search for apps in repository=Sök efter appar i arkivet
+No description present=Ingen beskrivning tillgänglig
+Go to the forum page=Gå till forumets sida
+Go to the webpage=Gå till webbsidan
+Go to reddit=Gå till Reddit
+Go to facebook=Gå till Facebook
+Go to discord=Gå till Discord
+Go to forum profile=Gå till forumprofil
+Show Profile=Visa profil
+SHOW MORE=Visa mer
+SHOW LESS=Visa mindre
+Read more=Läs mer
+Total Applications=Totalt antal appar
+Total Known Downloads=Totalt antal kända nedladdningar
+Total Docker Applications=Totalt antal Docker-appar
+Total Plugin Applications=Totalt antal plugin-appar
+Total Languages=Totalt antal språk
+Average Downloads Per App=Genomsnittliga nedladdningar per app
+Web Page=Webbsida
+Forum=Forum
+Forum Profile=Forumprofil
+Profile=Profil
+Facebook=Facebook
+Reddit=Reddit
+Twitter=Twitter
+Discord=Discord
+Search Apps=Sök appar
+Registry=Registrering
+Details=Detaljer
+Added=Tillägg
 ; Install Plugin title of openbox
-Install Plugin=
-Update Plugin=
+Install Plugin=Installera plugin
+Update Plugin=Uppdatera plugin
 
-Requirements not met=
-The requirements for this upgrade have not been met on your system=
-The sidebar for the app click info will list the details=The sidebar for the app (click info) will list the details
+Requirements not met=Kraven är inte uppfyllda
+The requirements for this upgrade have not been met on your system=Kraven för denna uppgradering har inte uppfyllts på ditt system
+The sidebar for the app click info will list the details=Sidopanelen för appen (klicka på info) kommer att lista detaljerna
 
-BACK=
+BACK=Tillbaka
 
 ; Remove App from previously installed
-Delete Template=
-Yes, delete it=
+Delete Template=Ta bort mall
+Yes, delete it=Ja, ta bort den
 
 ; Uninstall popup
-Uninstall Application=
-Yes uninstall it=
+Uninstall Application=Avinstallera app
+Yes uninstall it=Ja, avinstallera den
 
 ; Remove Private Application
-Remove Private Application=
-Yes, remove it=
+Remove Private Application=Ta bort privat app
+Yes, remove it=Ja, ta bort den
 
 ; App Pinning
-Click to pin this application=
-Click to unpin this application=
-Pin App=
-Unpin App=
+Click to pin this application=Klicka för att fästa denna app
+Click to unpin this application=Klicka för att lossa denna app
+Pin App=Fäst app
+Unpin App=Loss app
 
 ; Branch installations
-Choose A Branch To Install=
+Choose A Branch To Install=Välj en gren att installera
 
 ; Multiple application installs
 ; no apps selected
-Install Selected Applications=
+Install Selected Applications=Installera valda appar
 
-Yes, install it=
+Yes, install it=Ja, installera den
 
 ; Multi-install popup
-Yes, install them=
-Cookies not enabled Plugins must be separately installed from docker applications=
-Docker applications will be installed utilizing the most recently saved template with no user input on your part=
-Updating Support Links=
-Downloading docker icons=
-Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=
+Yes, install them=Ja, installera dem
+Cookies not enabled Plugins must be separately installed from docker applications=Cookies är inte aktiverade. Plugins måste installeras separat från Docker-appar.
+Docker applications will be installed utilizing the most recently saved template with no user input on your part=Docker-appar kommer att installeras med hjälp av den senast sparade mallen utan användarens inmatning.
+Updating Support Links=Uppdaterar supportlänkar
+Downloading docker icons=Hämtar Docker-ikoner
+Finished Installing If the DONE button did not appear, then you will need to click the red X in the top right corner=Installation klar. Om KNAPPEN KLAR inte visades, måste du klicka på den röda X:et i det övre högra hörnet.
 
 ; error messages
-No data was returned It is probable that another browser session has rebooted your server Reloading this browser tab will probably fix this error=
-An error occurred Could not find any %s Apps=
-Download of appfeed failed=
+No data was returned It is probable that another browser session has rebooted your server Reloading this browser tab will probably fix this error=Ingen data returnerades. Det är troligt att en annan webbläsarsession har startat om din server. Att ladda om den här webbläsarfliken kommer sannolikt att åtgärda detta fel.
+An error occurred Could not find any %s Apps=Ett fel inträffade. Kunde inte hitta några %s appar.
+Download of appfeed failed=Hämtning av appfeed misslyckades.
+
 ; the %s here refers to a function being called
-Something really went wrong here=
-Post the ENTIRE contents of this message in the Community Applications Support Thread=
-Unknown error happened Please post a screenshot in the support thread of the Statistics screen=
-Something really wrong happened Reloading the Apps tab will probably fix the problem=
-This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=
-You have been logged out=
-Fatal Flash Drive Error=
-This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=
-Fatal Docker Image Error=
-Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=
-This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=
-This template is set up to run as Privileged This is a possible security risk and usually does not need to be enabled Note that some applications require privileged in order to operate correctly=
-One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=
-Not Enough Memory=
-Community Applications and Unraid OS have a minimum required installed memory of 4G CA cannot run without those mimimums being met=
-Run Anyways=
-Memory Requirements not met Problems may result=
-Installation already in progress=
-Another plugin installation or update is already in progress and this one cannot start Wait until the current installation or update is completed and try again=
-%s is incompatible with your OS version Please update the OS to proceed=
-%s is incompatible with your OS version Either uninstall %s or update the OS=
-Browser failed to communicate with Unraid Server=
-For unknown reasons, your browser was unable to communicate with Community Applications running on your server=
-Attempt to Fix Via Reload Page=
+Something really went wrong here=Det gick verkligen fel här.
+Post the ENTIRE contents of this message in the Community Applications Support Thread=Posta hela innehållet i detta meddelande i Community Applications Support-tråden.
+Unknown error happened Please post a screenshot in the support thread of the Statistics screen=Okänt fel inträffade. Vänligen posta en skärmdump i supporttråden för statistikskärmen.
+Something really wrong happened Reloading the Apps tab will probably fix the problem=Något riktigt fel hände. Att ladda om appar-fliken kommer sannolikt att åtgärda problemet.
+This plugin has a duplicated name from another plugin %s This will impact your ability to install both plugins simultaneously=Detta plugin har ett duplicerat namn från ett annat plugin %s. Detta kommer att påverka din förmåga att installera båda plugins samtidigt.
+You have been logged out=Du har loggats ut
+Fatal Flash Drive Error=Fatal Flash Drive-fel
+This usually means your flash drive is corrupted or has dropped offline The rest of the Unraid GUI will also be affected Post a new thread in the Unraid forums if this error continues=Detta betyder vanligtvis att ditt flashminne är skadat eller har tappat anslutningen. Resten av Unraid GUI kommer också att påverkas. Posta en ny tråd i Unraid-forumen om detta fel fortsätter.
+Fatal Docker Image Error=Fatal Docker Image-fel
+Your docker image or folder is either read-only or completely full Issues will result because of this You should create a new post in the Unraid forums and include your diagnostics=Din Docker-image eller mapp är antingen skrivskyddad eller helt full. Problem kommer att uppstå på grund av detta. Du bör skapa ett nytt inlägg i Unraid-forumen och inkludera dina diagnostik.
+This template is set up to use a custom network You may have to adjust the network or IP address etc to match your system=Denna mall är inställd på att använda ett anpassat nätverk. Du kan behöva justera nätverket eller IP-adressen osv. för att matcha ditt system.
+This template is set up to run as Privileged This is a possible security risk and usually does not need to be enabled Note that some applications require privileged in order to operate correctly=Denna mall är inställd på att köras som Privilegierad. Detta är en potentiell säkerhetsrisk och behöver vanligtvis inte vara aktiverad. Observera att vissa applikationer kräver privilegierad för att fungera korrekt.
+One or more ports used by this application are already in use by another service or app running on your server You will need to adjust the host ports accordingly on the template=En eller flera portar som används av denna applikation används redan av en annan tjänst eller app som körs på din server. Du måste justera värdportarna enligt mallen.
+Not Enough Memory=Inte tillräckligt med minne
+Community Applications and Unraid OS have a minimum required installed memory of 4G CA cannot run without those mimimums being met=Community Applications och Unraid OS har ett minimikrav på installerat minne på 4 GB. CA kan inte köras utan att dessa minimikrav är uppfyllda.
+Run Anyways=Kör ändå
+Memory Requirements not met Problems may result=Minnekrav inte uppfyllda. Problem kan uppstå.
+Installation already in progress=Installation pågår redan
+Another plugin installation or update is already in progress and this one cannot start Wait until the current installation or update is completed and try again=En annan plugininstallation eller uppdatering pågår redan och denna kan inte starta. Vänta tills den aktuella installationen eller uppdateringen är klar och försök igen.
+%s is incompatible with your OS version Please update the OS to proceed=%s är inkompatibel med din OS-version. Vänligen uppdatera OS:et för att fortsätta.
+%s is incompatible with your OS version Either uninstall %s or update the OS=%s är inkompatibel med din OS-version. Antingen avinstallera %s eller uppdatera OS:et.
+Browser failed to communicate with Unraid Server=Webbläsaren kunde inte kommunicera med Unraid-servern
+For unknown reasons, your browser was unable to communicate with Community Applications running on your server=Av okända skäl kunde din webbläsare inte kommunicera med Community Applications som körs på din server.
+Attempt to Fix Via Reload Page=Försök att åtgärda genom att ladda om sidan
+
 
 ; CA Sections Keep the length reasonable
-Home=
-Installed Apps=
-Previous Apps=
-Pinned Apps=
-Favourite Repo=
-Action Centre=
-Recently Added=
-Random Apps=
-Top New Installs=
-Top Trending Apps=
-Spotlight Apps=
-All Apps=
-Statistics=
-Credits=
-Support=
-VERSION=
-Change Log=
-Debugging=
+Home=Hem
+Installed Apps=Installerade appar
+Previous Apps=Tidigare appar
+Pinned Apps=Fästa appar
+Favourite Repo=Favoritarkiv
+Action Centre=Åtgärdscenter
+Recently Added=Nyss tillagda
+Random Apps=Slumparappar
+Top New Installs=Topplista över nya installationer
+Top Trending Apps=Topplista över trendande appar
+Spotlight Apps=Fokusappar
+All Apps=Alla appar
+Statistics=Statistik
+Credits=Crediter
+Support=Support
+VERSION=VERSION
+Change Log=Ändringslogg
+Debugging=Felsökning
 
 ; Credits
-Development=
-Additional Contributions=
-GUI Layout Design=
-Application Feed=
-Additional Testing=
-Moderation=
-Additional Libraries=
-Copyright=
-Translation=
+Development=Utveckling
+Additional Contributions=Ytterligare bidrag
+GUI Layout Design=GUI-layoutdesign
+Application Feed=Applikationsfeed
+Additional Testing=Ytterligare testning
+Moderation=Moderering
+Additional Libraries=Ytterligare bibliotek
+Copyright=Upphovsrätt
+Translation=Översättning
+; Translation=Översättning (av Querzion/Slisk Lindqvist)
+
 
 ; Statistics page
-
-unknown=
-Last Change To Application Feed=
-Docker Applications=
-Plugin Applications=
-Templates=
-Official Containers=
-Repositories=
-Private Docker Applications=
-Invalid Templates=
-Template Errors=
-Blacklisted Apps=
-Incompatible Applications=
-Deprecated Applications=
-Moderation Entries=
-Primary Server=
-Backup Server=
-Installs not allowed from this page=
+unknown=okänd
+Last Change To Application Feed=Senaste ändring av applikationsfeed
+Docker Applications=Docker-appar
+Plugin Applications=Plugin-appar
+Templates=Mallar
+Official Containers=Officiella containrar
+Repositories=Arkiv
+Private Docker Applications=Privata Docker-appar
+Invalid Templates=Ogiltiga mallar
+Template Errors=Mallfel
+Blacklisted Apps=Svartlistade appar
+Incompatible Applications=Inkompatibla appar
+Deprecated Applications=Föråldrade appar
+Moderation Entries=Moderering
+Primary Server=Primär server
+Backup Server=Säkerhetskopieringsserver
+Installs not allowed from this page=Installationer är inte tillåtna från denna sida
 
 ; Statistics Popup
-No invalid templates found=
-These templates are invalid and the application they are referring to is unknown=
-No templates were automatically fixed=
-All of these errors found have been fixed automatically=
-Note that many of these errors can be avoided by following the directions=
-HERE=
-The following plugins have duplicated filenames and are not able to be installed simultaneously=
-The following docker applications refer to the same docker repository but may have subtle changes in the template to warrant this=
-If any of these entries are incorrect then contact the moderators of CA to discuss=
-Global Repository Comments=
-Applied to all applications=(Applied to all applications)
-Individual Application Moderation=
+No invalid templates found=Inga ogiltiga mallar hittades
+These templates are invalid and the application they are referring to is unknown=Dessa mallar är ogiltiga och applikationen de hänvisar till är okänd
+No templates were automatically fixed=Inga mallar har automatiskt rättats
+All of these errors found have been fixed automatically=Alla dessa fel har automatiskt rättats
+Note that many of these errors can be avoided by following the directions=Observera att många av dessa fel kan undvikas genom att följa instruktionerna
+HERE=HÄR
+The following plugins have duplicated filenames and are not able to be installed simultaneously=De följande plugins har duplicerade filnamn och kan inte installeras samtidigt
+The following docker applications refer to the same docker repository but may have subtle changes in the template to warrant this=De följande Docker-apparna hänvisar till samma Docker-arkiv men kan ha subtila ändringar i mallen som motiverar detta
+If any of these entries are incorrect then contact the moderators of CA to discuss=Om någon av dessa poster är felaktiga, kontakta moderatörerna av CA för att diskutera
+Global Repository Comments=Globala arkivkommentarer
+Applied to all applications=Tillämpas på alla appar
+Individual Application Moderation=Individuell applikationsmoderering
 
 ; Misc
-Community Applications Changelog=
-
-Each month we highlight some of the amazing work from our community=
-Check out these newly added applications from our awesome community=
-Check out these up and coming apps=
-These apps have the highest percentage of new installs=
-An assortment of randomly chosen apps=
-Featured Applications=
+Community Applications Changelog=Community Applications Ändringslogg
+Each month we highlight some of the amazing work from our community=Varje månad lyfter vi fram en del av det fantastiska arbete som görs av vår community
+Check out these newly added applications from our awesome community=Kolla in dessa nyss tillagda appar från vår fantastiska community
+Check out these up and coming apps=Kolla in dessa kommande appar
+These apps have the highest percentage of new installs=Dessa appar har den högsta andelen nya installationer
+An assortment of randomly chosen apps=En blandning av slumpmässigt valda appar
+Featured Applications=Utvalda appar
 
 ; Categories try not to be excessively long This is displayed on the left of CA screen
-
-Backup=
-Cloud=
-Crypto Currency=
-Downloaders=
-Drivers=
-Game Servers=
-Home Automation=
-Media Applications=
-Books=
-Music=
-Photos=
-Video=
-Other=
-Media Servers=
-Network Services=
-DNS=
-FTP=
-Management=
-Messenger=
-Proxy=
-VOIP=
-VPN=
-Web=
-Privacy=
-Productivity=
-Security=
-Spotlight=
-Tools Utilities=Tools / Utilities
-System=
-Themes=
-Utilities=
-Private Apps=
-Uncategorized=
+Backup=Säkerhetskopiering
+Cloud=Moln
+Crypto Currency=Kryptovaluta
+Downloaders=Nedladdare
+Drivers=Drivrutiner
+Game Servers=Spelservrar
+Home Automation=Hemautomation
+Media Applications=Mediaapplikationer
+Books=Böcker
+Music=Musik
+Photos=Fotografier
+Video=Video
+Other=Annat
+Media Servers=Mediaservrar
+Network Services=Nätverkstjänster
+DNS=DNS
+FTP=FTP
+Management=Management
+Messenger=Messenger
+Proxy=Proxy
+VOIP=VOIP
+VPN=VPN
+Web=Webb
+Privacy=Integritet
+Productivity=Produktivitet
+Security=Säkerhet
+Spotlight=Fokus
+Tools / Utilities=Verktyg / Verktyg
+System=System
+Themes=Teman
+Utilities=Verktyg
+Private Apps=Privata appar
+Uncategorized=Oklassificerat
 
 ; Categories displayed within a popup or on the card.  Where an entry exists after the "=" it is not translated, but rather how it should look
-GameServers=
-HomeAutomation=
-MediaApp=
-MediaAppBooks=MediaApp:Books
-MediaAppMusic=MediaApp:Music
-MediaAppPhotos=MediaApp:Photos
-MediaAppVideo=MediaApp:Video
-MediaAppOther=MediaApp:Other
-MediaServer=
-MediaServerBooks=MediaServer:Books
-MediaServerMusic=MediaServer:Music
-MediaServerPhotos=MediaServer:Photos
-MediaServerVideo=MediaServer:Video
-MediaServerOther=MediaServer:Other
-Network=
-NetworkDNS=Network:DNS
-NetworkFTP=Network:FTP
-NetworkManagement=Network:Management
-NetworkProxy=Network:Proxy
-NetworkVOIP=Network:VOIP
-NetworkVPN=Network:VPN
-NetworkPrivacy=Network:Privacy
-NetworkWeb=Network:Web
-NetworkOther=Network:Other
-ToolsSystem=Tools:System
-ToolsThemes=Tools:Themes
-ToolsUtilities=Tools:Utilities
-OtherUncategorized=Other:Uncategorized
-and %s more=
+GameServers=Spelservrar
+HomeAutomation=Hemautomation
+MediaApp=Mediaapp
+MediaAppBooks=Mediaapp:Böcker
+MediaAppMusic=Mediaapp:Musik
+MediaAppPhotos=Mediaapp:Fotografier
+MediaAppVideo=Mediaapp:Video
+MediaAppOther=Mediaapp:Annat
+MediaServer=Mediaserver
+MediaServerBooks=Mediaserver:Böcker
+MediaServerMusic=Mediaserver:Musik
+MediaServerPhotos=Mediaserver:Fotografier
+MediaServerVideo=Mediaserver:Video
+MediaServerOther=Mediaserver:Annat
+Network=Nätverk
+NetworkDNS=Nätverk:DNS
+NetworkFTP=Nätverk:FTP
+NetworkManagement=Nätverk:Management
+NetworkProxy=Nätverk:Proxy
+NetworkVOIP=Nätverk:VOIP
+NetworkVPN=Nätverk:VPN
+NetworkPrivacy=Nätverk:Integritet
+NetworkWeb=Nätverk:Webb
+NetworkOther=Nätverk:Annat
+ToolsSystem=Verktyg:System
+ToolsThemes=Verktyg:Teman
+ToolsUtilities=Verktyg:Verktyg
+OtherUncategorized=Annat:Oklassificerat
+and %s more=och %s fler
 
 ; App Popup Related
-This application template has been blacklisted=This application / template has been blacklisted
-This application template has been deprecated=This application / template has been deprecated
-This application has additional requirements=
-Additional Requirements=
-Donate To Author=
-Donate To Maintainer=
-CLOSE=
-Author=
-Maintainer=
-DockerHub=
-Application Template=
-DockerHub Stars=
-Added to CA=
-Date Updated=
-Current Version=
-Min OS=
-Max OS=
-Total Downloads=
-Popularity=
-Licence=
-Ranked #%s=
+This application template has been blacklisted=Denna applikation / mall har blivit svartlistad
+This application template has been deprecated=Denna applikation / mall har blivit föråldrad
+This application has additional requirements=Denna applikation har ytterligare krav
+Additional Requirements=Ytterligare krav
+Donate To Author=Donera till författaren
+Donate To Maintainer=Donera till underhållaren
+CLOSE=STÄNG
+Author=Författare
+Maintainer=Underhållare
+DockerHub=DockerHub
+Application Template=Applikationsmall
+DockerHub Stars=DockerHub-stjärnor
+Added to CA=Tillagd i CA
+Date Updated=Uppdateringsdatum
+Current Version=Aktuell version
+Min OS=Min OS
+Max OS=Max OS
+Total Downloads=Totalt antal nedladdningar
+Popularity=Popularitet
+Licence=Licens
+Ranked #%s=Rankad #%s
 ; as in Trending up or down arrow
-Trending %s=
+Trending %s=Trendande %s
 ; as in As of some date
-As of %s=(As of %s)
-Play Video=
-Play Video %s=
-This application is not compatible with your version of Unraid=
-Another browser tab or device has updated the displayed templates Some actions are not available=Another browser tab or device has updated the displayed templates. Some actions are not available
-WebUI=
-Reinstall=
-Reinstall From Previous Apps=
-Install=
-Uninstall=
-Project=
-Read Me First=
-Install second instance=
-Install Using The Templates Default Tag=Install Using The Template's Default Tag
-Moderator Comments=Moderator Comments:
-Note not all authors keep up to date on change logs=
-Note not all maintainers keep up to date on change logs=
-Last Update=
-Note All statistics are only gathered every 30 days=
-;the following if using a space you MUST use nbsp but keep it down to one word if at all possible
-Donate=
-Currently Installed Version=
-Install The Update=
+As of %s=Från och med %s
+Play Video=Spela video
+Play Video %s=Spela video %s
+This application is not compatible with your version of Unraid=Denna applikation är inte kompatibel med din version av Unraid
+Another browser tab or device has updated the displayed templates Some actions are not available=En annan webbläsartab eller enhet har uppdaterat de visade mallarna. Vissa åtgärder är inte tillgängliga.
+WebUI=Webbgränssnitt
+Reinstall=Installera om
+Reinstall From Previous Apps=Installera om från tidigare appar
+Install=Installera
+Uninstall=Avinstallera
+Project=Projekt
+Read Me First= Läs mig först
+Install second instance=Installera andra instans
+Install Using The Template's Default Tag=Installera med mallens standardtagg
+Moderator Comments=Moderator kommentarer
+Note not all authors keep up to date on change logs=Observera att inte alla författare håller sig uppdaterade med ändringsloggar.
+Note not all maintainers keep up to date on change logs=Observera att inte alla underhållare håller sig uppdaterade med ändringsloggar.
+Last Update=Senaste uppdatering
+Note All statistics are only gathered every 30 days=Observera att alla statistik endast samlas in var 30:e dag
+Donate=Donera
+Currently Installed Version=För närvarande installerad version
+Install The Update=Installera uppdateringen
 ; as in you have the latest version already installed
-Latest Version=
-Multi Language Support=
-Support Forum=
+Latest Version=Senaste version
+Multi Language Support=Flerspråkigt stöd
+Support Forum=Supportforum
 ; as in more than 100000
-More than %s=
-Remove from Previous Apps=
-Remove=
-See All Apps=
-Favourite=
-Application Type=
+More than %s=Mer än %s
+Remove from Previous Apps=Ta bort från tidigare appar
+Remove=Ta bort
+See All Apps=Se alla appar
+Favourite=Favorit
+Application Type=Applikationstyp
 
 ; Graphs
-Trend Per Month=
-Downloads Per Month=
+Trend Per Month=Månatlig trend
+Downloads Per Month=Nedladdningar per månad
 
 ; Multi install script
-Installing docker applications %s=
-Starting %s=
-%s failed to start You should install it by itself to fix the errors=
-Setting installed applications to autostart=
-Docker Application Installation finished=
+Installing docker applications %s=Installerar docker-applikationer %s
+Starting %s=Startar %s
+%s failed to start You should install it by itself to fix the errors=%s kunde inte starta. Du bör installera det separat för att åtgärda felen.
+Setting installed applications to autostart=Ställer in installerade applikationer för autostart
+Docker Application Installation finished=Installation av Docker-applikationen klar
 
 ; Application Cards
-Actions=
-Pending=
-This application is a driver plugin=This application is a driver (plugin)
-This is a language pack=
-This application is a docker container=
-This application is a plugin=
-This is a spotlight application=
-This is your favourite repository=
-This application is from your favourite repository=
-This application is pinned for later viewing=
-Private Application=
-Remove Application From List=
-Check off to select multiple reinstalls=
-Go to the plugin settings=
-Click to reinstall the application using default values=
-Click to edit the application values=
-Click to reinstall=
-Click to install=
-Click to go to the WebUI=
-This application template has been deprecated=
-This application template has been blacklisted=
-Click info to see the notes regarding this application=
-This application has additional requirements=
-BETA=
-INSTALLED=
-OFFICIAL=
-UPDATED=
-This is an official container=
-Digitally Signed=
-This container is digitally signed=
-Docker Hub=
-NOTE You must visit the dockerHub page to gather the information required to install correctly=
-Show CA templates=
-Deprecated=
-Incompatible=
-Blacklisted=
-Template Exists=
-Template already exists in Apps=
+Actions=Åtgärder
+Pending=Väntar
+This application is a driver (plugin)=Denna applikation är en drivrutin (plugin)
+This is a language pack=Detta är ett språkpaket
+This application is a docker container=Denna applikation är en dockerbehållare
+This application is a plugin=Denna applikation är ett plugin
+This is a spotlight application=Detta är en spotlight-applikation
+This is your favourite repository=Detta är din favoritrepository
+This application is from your favourite repository=Denna applikation kommer från din favoritrepository
+This application is pinned for later viewing=Denna applikation är fastställd för senare visning
+Private Application=Privat applikation
+Remove Application From List=Ta bort applikationen från listan
+Check off to select multiple reinstalls=Markera för att välja flera ominstallationer
+Go to the plugin settings=Gå till plugin-inställningarna
+Click to reinstall the application using default values=Klicka för att installera om applikationen med standardvärden
+Click to edit the application values=Klicka för att redigera applikationens värden
+Click to reinstall=Klicka för att installera om
+Click to install=Klicka för att installera
+Click to go to the WebUI=Klicka för att gå till WebUI
+This application template has been deprecated=Denna applikationsmall har blivit föråldrad
+This application template has been blacklisted=Denna applikationsmall har blivit svartlistad
+Click info to see the notes regarding this application=Klicka på info för att se anteckningarna om denna applikation
+This application has additional requirements=Denna applikation har ytterligare krav
+BETA=BETA
+INSTALLED=INSTALLERAD
+OFFICIAL=OFFICIELL
+UPDATED=UPPDATERAD
+This is an official container=Detta är en officiell behållare
+Digitally Signed=Digitalt signerad
+This container is digitally signed=Denna behållare är digitalt signerad
+Docker Hub=DockerHub
+NOTE You must visit the dockerHub page to gather the information required to install correctly=OBS Du måste besöka DockerHub-sidan för att samla in information som krävs för att installera korrekt
+Show CA templates=Visa CA-mallar
+Deprecated=Föråldrad
+Incompatible=Inkompatibel
+Blacklisted=Svartlistad
+Template Exists=Mallen finns
+Template already exists in Apps=Mallen finns redan i appar
 ; eg: LinuxServer Repository
-%s Repository=
+%s Repository=%s Repository
 ; eg: Squid's Repository
-%s's Repository=
+%s's Repository=%s:s Repository
 
-Info=
-Attention=
-Repository=
-Why we picked it=
-Application Spotlight %s=
-Unraid Staff=
+Info=Info
+Attention=Uppmärksamhet
+Repository=Repository
+Why we picked it=Varför vi valde den
+Application Spotlight %s=Applikationens spotlight %s
+Unraid Staff=Unraid-personal
 
 ; Page Navigation
-Displaying %s - %s of %s=Displaying %1$s - %2$s (of %3$s)
-
-Updating Content=
-Language=
-Switch to this language=
-Country Code=
-Install Language Pack=
-Remove Language Pack=
-Update Language Pack=
-Installed Version=
-A note about translations=
-Click here to view the language changelog=
-View Missing Translations=
+Displaying %1$s - %2$s (of %3$s)=Visar %1$s - %2$s (av %3$s)
+Updating Content=Uppdaterar innehåll
+Language=Språk
+Switch to this language=Byt till detta språk
+Country Code=Landkod
+Install Language Pack=Installera språkpaket
+Remove Language Pack=Ta bort språkpaket
+Update Language Pack=Uppdatera språkpaket
+Installed Version=Installerad version
+A note about translations=En anteckning om översättningar
+Click here to view the language changelog=Klicka här för att visa språkändringsloggen
+View Missing Translations=Visa saknade översättningar
 
 ; Update Checks
-Check For Updates=
-Check for updates already running=
-Checking for docker container updates=
-Checking for plugin updates=
-Checking for language updates=
-Checking %s=
+Check For Updates=Kontrollera uppdateringar
+Check for updates already running=Kontrollerar redan körande uppdateringar
+Checking for docker container updates=Kontrollerar efter uppdateringar för docker-behållare
+Checking for plugin updates=Kontrollerar efter uppdateringar för plugins
+Checking for language updates=Kontrollerar efter uppdateringar för språk
+Checking %s=Kontrollerar %s
 
 ; dockerHub conversions
-Determine configuration=
-Would you like CA to attempt to determine any applicable paths, ports, and variables for the template This will entail performing a test installation of the container It will be automatically deleted after processing The container will not be started=Would you like CA to attempt to determine any applicable paths, ports, and variables for the template?  This will entail performing a test installation of the container.  It will be automatically deleted after processing.  The container will not be started.
-An error occurred - Could not determine configuration=
+Determine configuration=Bestäm konfiguration
+Would you like CA to attempt to determine any applicable paths, ports, and variables for the template? This will entail performing a test installation of the container. It will be automatically deleted after processing. The container will not be started.=Vill du att CA ska försöka fastställa eventuella tillämpliga sökvägar, portar och variabler för mallen? Detta kommer att innebära att en testinstallation av behållaren utförs. Den kommer att tas bort automatiskt efter bearbetning. Behållaren kommer inte att startas.
+An error occurred - Could not determine configuration=Ett fel inträffade - Kunde inte bestämma konfiguration
+
 ; WebGui
-Click Install to download and install the Community Applications plugin=Click **Install** to download and install the **Community Applications** plugin
+Click **Install** to download and install the **Community Applications** plugin=Klicka på **Installera** för att ladda ner och installera **Community Applications**-pluginet
 
 
 ; Note: February 10, 2024 - 362 missing translations

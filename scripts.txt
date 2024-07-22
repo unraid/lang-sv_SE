@@ -1,8 +1,8 @@
 
 
 ; Note: April 29, 2023 - 5 missing translations
-A new version of %s is available=
-Docker=
-Language=
-Notice %s - Version update %s=Notice [%s] - Version update %s
-Plugin=
+A new version of %s is available=En ny version utav %s finns tillgänglig
+Docker=Docker
+Language=Språk
+Notice %s - Version update %s=Avisering [%s] - Versionsuppdatering %s
+Plugin=Plugin
