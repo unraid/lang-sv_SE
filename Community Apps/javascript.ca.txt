@@ -15,4 +15,3 @@ Install Application=Installera applikation
 Install Applications=Installera applikationer
 Something really wrong went on during %s=Något gick verkligen fel under %s
 Are you sure you want to delete %s applications from the previously installed list?=Är du säker på att du vill ta bort %s applikationer från listan över tidigare installerade?
-
