@@ -1,17 +1,16 @@
-
-
-; Note: April 28, 2023 - 14 missing translations
 Search for %s=Sök efter %s
 DockerHub Search for %s=DockerHub Sök efter %s
-Are you sure you want to delete %s from the list of previously installed applications?=Är du säker på att du vill ta bort %s från listan över tidigare installerade applikationer?
-Are you sure you want to uninstall %s?=Är du säker på att du vill avinstallera %s?
-Are you sure you want to remove the private application %s by %s?=Är du säker på att du vill ta bort den privata applikationen %s av %s?
 Removing %s=Tar bort %s
 Uninstalling %s=Avinstallerar %s
 Install %s Selected Application=Installera %s vald applikation
 Install %s Selected Applications=Installera %s valda applikationer
-Are you sure you want to install %s docker and %s plugin applications?=Är du säker på att du vill installera %s docker och %s pluginapplikationer?
 Install Application=Installera applikation
 Install Applications=Installera applikationer
 Something really wrong went on during %s=Något gick verkligen fel under %s
-Are you sure you want to delete %s applications from the previously installed list?=Är du säker på att du vill ta bort %s applikationer från listan över tidigare installerade?
+
+; Note: December 8, 2024 - 5 missing translations
+Are you sure you want to delete %s from the list of previously installed applications=
+Are you sure you want to uninstall %s=
+Are you sure you want to remove the private application %s by %s=
+Are you sure you want to install %s docker and %s plugin applications=
+Are you sure you want to delete %s applications from the previously installed list=
