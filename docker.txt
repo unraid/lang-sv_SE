@@ -133,6 +133,3 @@ Was this container created using this plugin=Skapades den här containern med de
 Web=Webb
 WebUI=WebUI
 Writable=Skrivbar
-
-
-; Note: April 29, 2023 - 62 missing translations

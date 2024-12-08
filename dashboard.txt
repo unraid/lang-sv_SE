@@ -5,7 +5,7 @@
 2 m=2 min
 30 s=30 sek
 5 m=5 min
-Abort background operation=Abryt bakgrunds operation 
+Abort background operation=Abryt bakgrunds operation
 Abort background process=Avbryt bakgrunds process
 Active tunnels=Aktiva tunnlar
 Activity=Aktivitet
@@ -100,7 +100,6 @@ Nominal power=Nominell effekt
 not received=inte mottagen
 Notices=Meddelanden
 Notifications=Notifikationer
-Only PNG images are allowed=Only PNG images are allowed!
 Outbound=Utgående
 Output voltage=Utspänning
 Overall Load=Total last
@@ -175,4 +174,12 @@ W=W
 Warnings=Varningar
 ZFS=ZFS
 
-; Note: December 25, 2023 - 93 missing translations
+; Note: December 8, 2024 - 8 missing translations
+checking=
+emulated=
+heat warnings=
+invalid=
+Only PNG images are allowed=Only PNG images are allowed!
+SMART errors=
+synching=
+utilization warnings=

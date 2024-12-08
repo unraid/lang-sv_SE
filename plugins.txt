@@ -1,6 +1,3 @@
-
-
-; Note: July 9, 2023 - 42 missing translations
 %s An update is available=%s: En uppdatering är tillgänglig.
 Alert Message=Varningsmeddelande
 anonymous=Anonym
@@ -43,4 +40,3 @@ Update Incompatible=Uppdatera inkompatibla
 Update Plugin=Uppdatera plugin
 Upgrade=Uppgradera
 View Release Notes=Visa versionsanteckningar
-

@@ -1,29 +1,27 @@
 Add User=Lägg till användare
 Add=Lägg till
+Click Add User to create a user for remote shares access=Klicka på **Lägg till användare** för att skapa en användare för åtkomst till fjärrdelningar
 Click to select PNG file=Tryck för att välja PNG-fil
 Custom image=Egen bild
 Description=Beskrivning
 Do not use reserved names=Använd inte reserverade namn
 Drag-n-drop a PNG file or click the image at the left=Dra-och-släpp en PNG-fil eller tryck på bilden till vänster
 Edit User=Redigera användare
+Invalid Key=Ogiltig nyckel
 Invalid user name=Ogiltigt användarnamn
+Management Access=Hantera åtkomst
+No users are defined=Inga användare är definierade
 Only PNG images are allowed=Bara PNG-filer är tillåtna
 Password too long=Lösenord för långt
 Password=Lösenord
 Restore default image=Återstall standardbild
 Retype password=Skriv in lösenordet igen
+Save=Spara
+Shares Access=Åtkomst till delningar
 Show Hide password=Visa / Göm lösenord
+SSH authorized keys=SSH auktoriserade nycklar
+Syntax of the key is incorrect=Nyckelns syntax är felaktig
 Use a password up to 128 characters=Använd ett lösenord upp till 128 tecken
 Use only lowercase letters, digits, underscores and dashes=Använd bara gemener, siffror, understreck och bindestreck
 User %s has been deleted=Användare %s har tagits bort
 User name=Användarnamn
-
-; Note: April 29, 2023 - 8 missing translations
-Click Add User to create a user for remote shares access=Klicka på **Lägg till användare** för att skapa en användare för åtkomst till fjärrdelningar
-Invalid Key=Ogiltig nyckel
-Management Access=Hantera åtkomst
-No users are defined=Inga användare är definierade
-Save=Spara
-Shares Access=Åtkomst till delningar
-SSH authorized keys=SSH auktoriserade nycklar
-Syntax of the key is incorrect=Nyckelns syntax är felaktig

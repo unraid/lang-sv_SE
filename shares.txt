@@ -4,17 +4,12 @@ All files protected=Alla filer är skyddade
 All files unprotected=Alla filer är oskyddade
 Allocation method=Tilldelningsmetod
 Array must be Started to view Shares=Arrayen måste vara **startad** för att visa delningar
-
-; This was not the easiest to translate into a fluent and coherent Swedish translation. It needs to make sense too, I hope I nailed it.
-Automatically split any directory as required = Dela endast automatiskt upp: vilken som helst av mapparna/katalogerna vid behov
-Automatically split only the top five directory levels as required = Dela endast automatiskt upp: de fem översta mapp-/katalognivåerna vid behov
-Automatically split only the top four directory levels as required = Dela endast automatiskt upp: de fyra översta mapp-/katalognivåerna vid behov
-Automatically split only the top level directory as required = Dela endast automatiskt upp: den översta mapp-/katalognivån vid behov
-Automatically split only the top three directory levels as required = Dela endast automatiskt upp: de tre översta mapp-/katalognivåerna vid behov
-Automatically split only the top two directory levels as required = Dela endast automatiskt upp: de två översta mapp-/katalognivåerna vid behov
-
-
-Calculated free space value=Beräknat ledigt utrymme
+Automatically split any directory as required=Dela endast automatiskt upp: vilken som helst av mapparna/katalogerna vid behov
+Automatically split only the top five directory levels as required=Dela endast automatiskt upp: de fem översta mapp-/katalognivåerna vid behov
+Automatically split only the top four directory levels as required=Dela endast automatiskt upp: de fyra översta mapp-/katalognivåerna vid behov
+Automatically split only the top level directory as required=Dela endast automatiskt upp: den översta mapp-/katalognivån vid behov
+Automatically split only the top three directory levels as required=Dela endast automatiskt upp: de tre översta mapp-/katalognivåerna vid behov
+Automatically split only the top two directory levels as required=Dela endast automatiskt upp: de två översta mapp-/katalognivåerna vid behov
 Clean Up=Rensa
 CLEAN UP=RENSA
 Comments=Kommentarer
@@ -32,10 +27,7 @@ Fill-up=Fyll upp
 Free=Ledigt
 has been deleted=har raderats
 HDD=HDD
-
-; I translated this, but what does it meme?! Since it's referring to "High-Water Mark" Datautjämning (Data balancing) should be a proper translation.
 High-water=Datautjämning
-
 Included disks=Inkluderade diskar
 Invalid Characters=Ogiltiga tecken
 Invalid share name=Ogiltigt delningsnamn
@@ -83,9 +75,16 @@ There are no exportable disk shares=Det finns inga exportabla diskdelningar
 There are no exportable user shares=Det finns inga exportabla användardelningar
 Time Machine volume size limit=Time Machine-volymstorleksgräns
 Unknown encryption state=Okänt krypteringstillstånd
-Use cache pool for new files/directories=Använd cachepool (för nya filer/kataloger)
 User Shares=Användardelningar
 Write=Skriv
 You cannot use the following within share names=Du kan inte använda följande inom delningsnamn
 
-; Note: July 9, 2023 - 80 missing translations
+; Note: December 8, 2024 - 8 missing translations
+Free Space will be calculated=
+is missing=
+it references storage that does not exist=
+Share is empty and is safe to delete=
+Share must be empty to be deleted=
+This share is invalid=
+Use cache pool for new filesdirectories=Use cache pool (for new files/directories)
+Warning: Configured Pool=
