@@ -115,6 +115,7 @@ Percent usage of Docker vdisk=Procentuell användning av Docker vdisk
 Percent usage of flash usb device=Procentuell användning av flash usb enhet
 Percent usage of LOG file system=Procentuell användning av LOG-filsystemet
 Pool=Pool
+Popup Blocked=Popup Blocked.
 Power Status=Strömstatus
 Power=Ström
 Processor Information=Processorinformation
@@ -174,7 +175,7 @@ W=W
 Warnings=Varningar
 ZFS=ZFS
 
-; Note: December 28, 2024 - 24 missing translations
+; Note: December 28, 2024 - 21 missing translations
 checking=
 Clock is synchronized using NTP, time offset is %s %s=
 Clock is synchronized using PTP, time offset is %s %s=
@@ -189,7 +190,6 @@ invalid=
 Memory dump=
 No VMs running=
 Only PNG images are allowed=Only PNG images are allowed!
-Popup Blocked=Popup Blocked.
 RX=
 SMART errors=
 synching=
