@@ -60,9 +60,9 @@ Secondary storage=Sekundär lagring
 Select cache pool=Välj cachepool
 Set when adding new share only=Ställ endast in vid tillägg av ny delning
 Share contains data=Delning innehåller data
-Share name contains invalid characters for ZFS use=Delningsnamn innehåller ogiltiga tecken för ZFS-användning
 Share is empty=Delningen är tom
 Share is outside the list of designated disks=Delningen är utanför listan över angivna diskar
+Share name contains invalid characters for ZFS use=Delningsnamn innehåller ogiltiga tecken för ZFS-användning
 Share Settings=Delningsinställningar
 Share status=Delningsstatus
 Size=Storlek
@@ -79,12 +79,16 @@ User Shares=Användardelningar
 Write=Skriv
 You cannot use the following within share names=Du kan inte använda följande inom delningsnamn
 
-; Note: December 8, 2024 - 8 missing translations
+; Note: December 28, 2024 - 12 missing translations
 Free Space will be calculated=
 is missing=
 it references storage that does not exist=
+It references storage that does not exist=
 Share is empty and is safe to delete=
 Share must be empty to be deleted=
+There are no mountable array or pool disks - cannot add shares=
 This share is invalid=
+Unknown cache usage=
+Unknown protection status=
 Use cache pool for new filesdirectories=Use cache pool (for new files/directories)
 Warning: Configured Pool=
