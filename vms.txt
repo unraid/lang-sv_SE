@@ -73,7 +73,6 @@ ISO storage path doesnt exist=ISO-lagringsvägen existerar inte
 ISO storage path was empty=ISO-lagringsvägen var tom
 keyboard for VM Console=Tangentbord för VM-konsol
 keyboard for VNC=Tangentbord för VNC
-Leaving blank will use OS name=
 LibreELEC Version=LibreELEC-version
 LibreELEC=LibreELEC
 Libvirt Service failed to start=Libvirt-tjänsten kunde inte starta
@@ -217,7 +216,7 @@ Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, nyare Linux-distributioner
 XML View=XML-vy
 
-; Note: December 29, 2024 - 49 missing translations
+; Note: December 29, 2024 - 50 missing translations
 9p Mode=
 Advanced tuning options=
 Base Image=
@@ -239,6 +238,7 @@ Hide inline xml=
 Host CPU=
 If name already exists it will be replaced=
 Initial=
+Leaving blank will use OS name=
 Memory dump=
 Memory inuseCurrentMaximum=Memory inuse/Current/Maximum
 Name contains invalid characters or does not start with an alphanumberic for a ZFS storage locationOnly these special characters are valid Underscore _ Hyphen - Colon Period=Name contains invalid characters or does not start with an alphanumberic for a ZFS storage location<br>Only these special characters are valid Underscore (_) Hyphen (-) Colon (:) Period (.)
