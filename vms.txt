@@ -216,7 +216,7 @@ Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, nyare Linux-distributioner
 XML View=XML-vy
 
-; Note: December 29, 2024 - 50 missing translations
+; Note: December 29, 2024 - 49 missing translations
 9p Mode=
 Advanced tuning options=
 Base Image=
@@ -250,7 +250,6 @@ Pivot=
 Prefix=
 Remove all files=
 Remove User Template=
-Rename disabled, snapshots exists=Rename disabled, <?=$snapcount?> snapshot(s) exists.
 Repeat=
 Set discard option=
 Set SDD flag=
