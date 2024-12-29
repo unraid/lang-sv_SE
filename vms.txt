@@ -216,7 +216,7 @@ Windows 7XP=Windows 7/XP
 Windows 82012, newer Linux distros=Windows 8/2012, nyare Linux-distributioner
 XML View=XML-vy
 
-; Note: December 29, 2024 - 49 missing translations
+; Note: December 29, 2024 - 50 missing translations
 9p Mode=
 Advanced tuning options=
 Base Image=
@@ -248,6 +248,7 @@ Other XML=
 OVMF TPM=
 Pivot=
 Prefix=
+Rename disabled, %s snapshots exists=Rename disabled, %s snapshot(s) exists
 Remove all files=
 Remove User Template=
 Repeat=
