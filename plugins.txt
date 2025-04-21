@@ -40,3 +40,6 @@ Update Incompatible=Uppdatera inkompatibla
 Update Plugin=Uppdatera plugin
 Upgrade=Uppgradera
 View Release Notes=Visa versionsanteckningar
+
+; Note: April 21, 2025 - 1 missing translations
+cannot check=
