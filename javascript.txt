@@ -26,7 +26,7 @@ Proceed=Fortsätt
 Project Page=Projektsida
 Remove container=Ta bort container
 Remove definition=Ta bort definition
-Remove image=Ta bort image
+Remove image=Ta bort avbild
 Remove VM=Ta bort VM
 Remove=Ta bort
 Restart=Starta om
@@ -45,10 +45,10 @@ Yes, update it=Ja, uppdatera den!
 Yes=Ja
 
 ; footer messages
-Array Starting=Array startar
-Array Stopping=Array stoppas
+Array Starting=Arrayen startar
+Array Stopping=Arrayen stoppas
 Mounting disks=Monterar diskar
-Spinning up all drives=Spinner upp alla diskar
+Spinning up all drives=Startar upp alla diskar
 Starting services=Startar tjänster
 Stopping services=Stoppar tjänster
 Unmounting disks=Avmonterar diskar
@@ -59,17 +59,17 @@ Opening encrypted volumes=Öppnar krypterade volymer
 ; docker variables
 
 ; Note: April 29, 2023 - 14 missing translations
-Donate=
-Read Me First=
-Array Copying=
-Array Clearing=
+Donate=Donera
+Read Me First=Läs mig först
+Array Copying=Arrayen kopierar
+Array Clearing=Arrayrensning
 Retry unmounting user shares=Retry unmounting user share(s)
-Stale configuration=
-Starting Recycle Bin=
-Stopping Recycle Bin=
-Sync filesystems=
-Container Path=
-Container Port=
-Container Variable=
-Container Label=
-Container Device=
+Stale configuration=Inaktuell konfiguration
+Starting Recycle Bin=Startar papperskorgen
+Stopping Recycle Bin=Stoppar papperskorgen
+Sync filesystems=Synka filsystemen
+Container Path=Container-sökväg
+Container Port=Container-port
+Container Variable=Container-variabel
+Container Label=Container-etikett
+Container Device=Container-enhet
